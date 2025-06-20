@@ -6,6 +6,7 @@ class Button {
     "/",
     "7",
     "8",
+    
     "9",
     "*",
     "4",
@@ -20,7 +21,7 @@ class Button {
     ".", 
     "=",
   ];
-  
+
   static const List<String> topRowButtons = ["AC", "⌫", "%"];
 
   static const List<String> operatorButtons = ['+', '-', '*', '/', '='];
