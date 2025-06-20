@@ -11,12 +11,12 @@ lib/** linguist-language=Dart
 *.dart linguist-language=Dart
 
 # Include C++
-native/cpp/** linguist-language=C++
+windows/** linguist-language=C++
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 
 # Include Swift
-native/swift/** linguist-language=Swift
+ios/** linguist-language=Swift
 *.swift linguist-language=Swift
 
 # Include HTML
