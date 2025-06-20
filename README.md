@@ -17,6 +17,4 @@ Flutter Create yourAppName - Use to create Apps
 
 Provide Necessary Tools for debugging and inspecting through various things, and also analyzing widget tree and more.
 
-# For More Information Contact Me, On Linkedin
 
-https://www.linkedin.com/in/muhammad-zohaib-489bbb32b/
