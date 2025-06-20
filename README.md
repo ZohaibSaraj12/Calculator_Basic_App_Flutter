@@ -19,7 +19,7 @@ Provide Necessary Tools for debugging and inspecting through various things, and
 
 
 ## Home Screen
-![Home]("Calculator_Basic_App_Flutter/screenshots/homescreen.png")
+![Home](screenshots/homescreen.png)
 
 
 
