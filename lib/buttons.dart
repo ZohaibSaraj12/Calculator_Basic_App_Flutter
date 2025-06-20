@@ -20,6 +20,7 @@ class Button {
     ".", 
     "=",
   ];
+  
   static const List<String> topRowButtons = ["AC", "⌫", "%"];
 
   static const List<String> operatorButtons = ['+', '-', '*', '/', '='];
