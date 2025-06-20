@@ -19,7 +19,7 @@ Provide Necessary Tools for debugging and inspecting through various things, and
 
 
 # Calculator Home Screen
-![Home]("C:\Users\Zohaib Saraj\Pictures\Screenshots\Screenshot 2025-06-20 144429.png")
+![Home]("Screenshots\homescreen.jpg")
 
 
 
