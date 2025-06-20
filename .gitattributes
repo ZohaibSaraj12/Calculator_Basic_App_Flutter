@@ -1,4 +1,4 @@
-# Ignore native build/platform folders (vendored)
+# Ignore Flutter native folders
 ios/** linguist-vendored
 android/** linguist-vendored
 macos/** linguist-vendored
@@ -6,25 +6,19 @@ windows/** linguist-vendored
 linux/** linguist-vendored
 build/** linguist-vendored
 
-# Prioritize Dart
+# Dart boost
 lib/** linguist-language=Dart
 *.dart linguist-language=Dart
 
-# Include C++ (minor share)
+# Include C++
 native/cpp/** linguist-language=C++
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 
-# Include Swift (minor share)
+# Include Swift
 native/swift/** linguist-language=Swift
 *.swift linguist-language=Swift
 
-# Include HTML (minor share)
+# Include HTML
 web/html/** linguist-language=HTML
 *.html linguist-language=HTML
-
-# Optional: Include JS/CSS if needed
-assets/js/** linguist-language=JavaScript
-assets/css/** linguist-language=CSS
-*.js linguist-language=JavaScript
-*.css linguist-language=CSS
