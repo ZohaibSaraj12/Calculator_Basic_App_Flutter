@@ -6,7 +6,9 @@ build/** linguist-vendored
 CMakeLists.txt linguist-generated
 *.cmake linguist-generated
 
-
+# Cmake Cdoe
+windows/runner/CMakeLists.txt linguist-language=CMake
+*.cmake linguist-language=CMAKE
 
 
 # Dart boost
