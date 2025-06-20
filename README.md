@@ -1,19 +1,29 @@
-# calculator_app
+# Calculator App By Zabi
 
 
-Written By Muhammad Zohaib, A calculator Project, Improving Functionalities.
-Working With Data Structures In Flutter
+Written By Muhammad Zohaib, A calculator Project, Improving Functionalities. Working With Flutter, Means Flirting With Flutter, 
+Implementing Data Structures, and Through these DS making a full fledged Calculations performing On Calculator.
 
-## Getting Started
+# Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. It Includes Main File, which is a Core File, next to it different files and, Getting and sending Data Among these Files.
+This Project is not only the basic, but it is a capstone project, with exception handling and Prestigious Calculations, such as divide by zero, and More.
+You can Check it by downloading the repo and run it in your own Computer, 
 
-A few resources to get you started if this is your first Flutter project:
+# Flutter Command
+Flutter Create yourAppName - Use to create Apps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Dart Dev Tools
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Calculator_Basic_App_Flutter" 
+Provide Necessary Tools for debugging and inspecting through various things, and also analyzing widget tree and more.
+
+
+# Calculator Home Screen
+![Home]("C:\Users\Zohaib Saraj\Pictures\Screenshots\Screenshot 2025-06-20 144429.png")
+
+
+
+
+# For More Information Contact Me, On Linkedin
+
+https://www.linkedin.com/in/muhammad-zohaib-489bbb32b/

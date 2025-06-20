@@ -1,14 +1,24 @@
 # Ignore Flutter native folders
 ios/** linguist-vendored
 android/** linguist-vendored
-macos/** linguist-vendored
 windows/** linguist-vendored
-linux/** linguist-vendored
 build/** linguist-vendored
+CMakeLists.txt linguist-generated
+
+
+# Cmake Cdoe
+windows/runner/CMakeLists.txt linguist-language=CMake
+*.cmake linguist-language=CMAKE
+
 
 # Dart boost
 lib/** linguist-language=Dart
 *.dart linguist-language=Dart
+
+# Dart Widgets
+test/** linguist-language=Dart
+*.dart linguist-language=Dart
+
 
 # Include C++
 windows/runner/** linguist-language=C++
@@ -22,3 +32,11 @@ ios/Runner/** linguist-language=Swift
 # Include HTML
 web/html/** linguist-language=HTML
 *.html linguist-language=HTML
+
+# Include Kotlin
+android/** linguist-language=KOTLIN
+*.kts linguist-language=KOTLIN
+
+
+
+
