@@ -1,5 +1,5 @@
 # Ignore Flutter native folders
-ios/** linguist-vendored
+ios/Runner/** linguist-vendored
 android/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
@@ -22,3 +22,7 @@ ios/Runner/** linguist-language=Swift
 # Include HTML
 web/html/** linguist-language=HTML
 *.html linguist-language=HTML
+
+# Include Kotlin
+android/** linguist-language=KOTLIN
+*.kts linguist-language=KOTLIN
