@@ -18,8 +18,7 @@ Flutter Create yourAppName - Use to create Apps
 Provide Necessary Tools for debugging and inspecting through various things, and also analyzing widget tree and more.
 
 
-## Home Screen
-![Home](screenshots/homescreen.png)
+
 
 
 
