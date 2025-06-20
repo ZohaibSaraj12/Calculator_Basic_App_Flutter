@@ -1,28 +1,30 @@
-# Exclude large platform folders from affecting stats
+# Ignore native build/platform folders (vendored)
 ios/** linguist-vendored
 android/** linguist-vendored
-build/** linguist-vendored
-linux/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
+linux/** linguist-vendored
+build/** linguist-vendored
 
-# Force Dart (lib folder) as Dart
+# Prioritize Dart
 lib/** linguist-language=Dart
 *.dart linguist-language=Dart
 
-# C++ files (minor percentage)
+# Include C++ (minor share)
 native/cpp/** linguist-language=C++
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 
-# Swift files (minor)
+# Include Swift (minor share)
 native/swift/** linguist-language=Swift
 *.swift linguist-language=Swift
 
-# HTML (minor)
+# Include HTML (minor share)
 web/html/** linguist-language=HTML
 *.html linguist-language=HTML
 
-# Optional: Other languages
-assets/scripts/** linguist-language=JavaScript
-assets/styles/** linguist-language=CSS
+# Optional: Include JS/CSS if needed
+assets/js/** linguist-language=JavaScript
+assets/css/** linguist-language=CSS
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
