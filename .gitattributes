@@ -3,10 +3,16 @@ ios/Runner/** linguist-vendored
 android/** linguist-vendored
 windows/runner/** linguist-vendored
 build/** linguist-vendored
+lib/** linguistic-vendored
 
 # Dart boost
 lib/** linguist-language=Dart
 *.dart linguist-language=Dart
+
+# Dart Widgets
+test/** linguist-language=Dart
+*.dart linguist-language=Dart
+
 
 # Include C++
 windows/runner/** linguist-language=C++
@@ -26,8 +32,5 @@ android/** linguist-language=KOTLIN
 *.kts linguist-language=KOTLIN
 
 
-
-windows/runner/** linguist-language=CMAKE
-*.cmake linguist-language=CMAKE
 
 
