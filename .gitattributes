@@ -1,0 +1,15 @@
+# Ignore native platform folders
+ios/** linguist-vendored
+android/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+build/** linguist-vendored
+
+# Force Dart detection
+lib/** linguist-language=Dart
+*.dart linguist-language=Dart
+
+# Ignore C++ files
+*.cpp linguist-language=Ignore
+*.h linguist-language=Ignore
