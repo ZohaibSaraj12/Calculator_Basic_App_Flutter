@@ -1,9 +1,7 @@
 # Ignore Flutter native folders
 ios/Runner/** linguist-vendored
 android/** linguist-vendored
-macos/Runner/** linguist-vendored
 windows/runner/** linguist-vendored
-linux/** linguist-vendored
 build/** linguist-vendored
 
 # Dart boost
