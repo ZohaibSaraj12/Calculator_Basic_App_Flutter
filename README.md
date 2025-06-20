@@ -1,7 +1,7 @@
 # calculator_app
 
-A new Flutter project.
-Written By Muhammad Zohaib
+
+Written By Muhammad Zohaib, A calculator Project, Improving Functionalities.
 Working With Data Structures In Flutter
 
 ## Getting Started
